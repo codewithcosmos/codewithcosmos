@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Cosmos
 - 👀 I’m interested in colaboration
-- 🌱 I’m currently learning development
+- 🌱 I’m a junior developer
 - 💞️ I’m looking to collaborate on some future projects
-- 📫 How to reach me codewithcosmos@gmail.com / cosmos@coslife.co.za
+- 📫 How to reach me: Well right here
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
