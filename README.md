@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   Website: https://cosmosm.site
-  C:\Users\Admin\Desktop\Websites\images\website-img\coslife..png
+![coslife-m](https://github.com/codewithcosmos/codewithcosmos/assets/163349688/b5c3c6db-98a5-4509-8a88-693a7038e085)
 <!---
 codewithcosmos/codewithcosmos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
