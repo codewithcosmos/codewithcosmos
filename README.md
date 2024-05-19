@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Cosmos
-- 👀 I’m interested in colaboration
 ### 🌱 I’m a developer
 - 💞️ I’m looking to collaborate on some future projects
+- - 👀 I’m interested in sharing some ideas
 - 📫 How to reach me: Well right here
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
